@@ -6,7 +6,7 @@ Author: /u/DanneMite - Daniel Edsinger
 
 Plans
 -----------------
-1: Build the game to run as the original on GBA, like an emulator but in java.
+1: Build the game to run as the original on GBA, like an emulator but in C# and .NET.
 
 2: Add special options to play as boy or girl. (Maybe add same sex marriage)
 
