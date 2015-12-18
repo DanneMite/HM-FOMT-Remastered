@@ -1,6 +1,6 @@
 Harvest Mooon - FOMT-Remastered
 ==============
-Building "Harvest Moon - Friends of Mineral Town" in java as a challenge and for learning.
+Building "Harvest Moon - Friends of Mineral Town" in C# as a challenge and for learning.
 
 Author: /u/DanneMite - Daniel Edsinger
 
